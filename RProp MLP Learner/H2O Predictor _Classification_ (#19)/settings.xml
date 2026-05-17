@@ -6,9 +6,9 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="CFG_APPENDPROBABILITIES" type="xboolean" value="false"/>
-        <entry key="CFG_CHANGEPREDICTIONCOLUMNNAME" type="xboolean" value="false"/>
-        <entry key="CFG_PREDICTIONCOLUMNNAME" type="xstring" isnull="true" value=""/>
+        <entry key="CFG_APPENDPROBABILITIES" type="xboolean" value="true"/>
+        <entry key="CFG_CHANGEPREDICTIONCOLUMNNAME" type="xboolean" value="true"/>
+        <entry key="CFG_PREDICTIONCOLUMNNAME" type="xstring" value="Prediction (NObeyesdad)"/>
         <entry key="CFG_PROBCOLSUFFIX" type="xstring" value=""/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -32,7 +32,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.ext.h2o.ports.H2OFramePortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.ext.h2o.ports.H2OFramePortObject"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 640, Cols: 18, Context: Local H2O Context v3.46.0.9"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 441, Cols: 23, Context: Local H2O Context v3.46.0.9"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -40,6 +40,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="48807964-2ae9-4bb1-87b7-46162a29ce51"/>
+        <entry key="file_store_id" type="xstring" value="bf8e8c52-ee0f-472f-a9bc-e6b4830073cf"/>
     </config>
 </config>
