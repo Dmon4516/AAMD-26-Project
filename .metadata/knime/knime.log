@@ -5815,3 +5815,1005 @@ org.knime.core.node.workflow.IllegalLoopException: Loop end already assigned (st
 2026-05-09 21:47:01,028 : INFO  : KNIME-Worker-32-GroupBy 4:15 :  : LocalNodeExecutionJob : GroupBy : 4:15 : GroupBy 4:15 End execute (0 secs)
 2026-05-09 21:47:01,031 : INFO  : KNIME-Worker-33-Color Manager 4:23 :  : LocalNodeExecutionJob : Color Manager : 4:23 : Color Manager 4:23 End execute (0 secs)
 2026-05-09 21:47:01,034 : INFO  : KNIME-Worker-34-Parallel Coordinates Plot 4:22 :  : LocalNodeExecutionJob : Parallel Coordinates Plot : 4:22 : Parallel Coordinates Plot 4:22 End execute (0 secs)
+2026-05-10 12:21:35,544 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda/0x00000001006046c0 :  : FileUtil :  :  : Deleting 303 temporary files.
+2026-05-17 12:39:04,147 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-17 12:39:04,149 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : # Welcome to KNIME Analytics Platform v5.11.0.v202603030810 (Build March 03, 2026)      #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : # Based on Eclipse, http://www.eclipse.org                                              #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : # Copyright by KNIME AG, Zurich, Switzerland and others.                                #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : # Website: http://www.knime.com                                                         #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : # E-mail: contact@knime.com                                                             #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : #                                                                                       #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : # For more details see the KNIME log file:                                              #
+2026-05-17 12:39:04,150 : INFO  : main :  : NodeLogger :  :  : # /Users/tomstehling/AAMD-26-Project/.metadata/knime/knime.log
+2026-05-17 12:39:04,151 : INFO  : main :  : NodeLogger :  :  : #---------------------------------------------------------------------------------------#
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # logging date=Sun May 17 12:39:04 CEST 2026
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # java.version=21.0.9
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # java.vm.version=21.0.9+10-LTS
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # java.vendor=Eclipse Adoptium
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # os.name=Mac OS X
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # os.arch=x86_64
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # number of CPUs=4
+2026-05-17 12:39:04,180 : INFO  : main :  : NodeLogger :  :  : # assertions=off
+2026-05-17 12:39:04,335 : INFO  : main :  : NodeLogger :  :  : # host=Toms-MacBook-Pro.local
+2026-05-17 12:39:04,347 : INFO  : main :  : NodeLogger :  :  : # username=tomstehling
+2026-05-17 12:39:04,347 : INFO  : main :  : NodeLogger :  :  : # max mem=2048MB
+2026-05-17 12:39:04,348 : INFO  : main :  : NodeLogger :  :  : # application=org.knime.product.KNIME_APPLICATION
+2026-05-17 12:39:04,362 : INFO  : main :  : NodeLogger :  :  : # KNID=11-f2cbba5de1f9f633-01-1f5776136303d639
+2026-05-17 12:39:04,362 : INFO  : main :  : NodeLogger :  :  : #########################################################################################
+2026-05-17 12:38:59,000 : INFO  : main :  : RegisterBouncyCastleProvider :  :  : Added BouncyCastleProvider to Java Security providers
+2026-05-17 12:39:08,890 : INFO  : main :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/.metadata/knime/history_database_drivers.txt' does not exist.
+2026-05-17 12:39:08,890 : INFO  : main :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/.metadata/knime/history_database_urls.txt' does not exist.
+2026-05-17 12:39:12,919 : INFO  : Node Repository Initializer :  : MovingAggregationNodeFactory :  :  : Modern dialog for Moving Aggregator node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-17 12:39:12,986 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/.metadata/knime/history_string2date-formats.txt' does not exist.
+2026-05-17 12:39:13,637 : INFO  : main :  : ProcessWatchdog :  :  : KNIME Process Watchdog memory limit not configured
+2026-05-17 12:39:13,637 : INFO  : main :  : ProcessWatchdog :  :  : External process memory watchdog is disabled, because the memory limit is set to -1
+2026-05-17 12:39:16,166 : INFO  : main :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/.metadata/knime/history_org.knime.kerberos.name.txt' does not exist.
+2026-05-17 12:39:18,162 : INFO  : main :  : KnimeBrowserView :  :  : %cinfo%c Injecting global logger 
+      background: #00BCD4;
+      border-radius: 0.5em;
+      color: white;
+      font-weight: bold;
+      padding: 2px 0.5em;
+      (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 105)
+2026-05-17 12:39:19,545 : INFO  : Node Repository Initializer :  : ColumnAggregatorNodeFactory :  :  : Modern dialog for Column Aggregator node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-17 12:39:19,598 : INFO  : ModalContext :  : GroupByNodeFactory : join_clusters : 3 : Modern dialog for GroupBy node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-17 12:39:19,892 : WARN  : ModalContext :  : Node : Local File System Connector : 3:5 : Connection no longer available. Please re-execute the node.
+2026-05-17 12:39:20,576 : WARN  : ModalContext :  : Node : One to Many : 3:6 : Duplicate possible values found. Original column name will be appended
+2026-05-17 12:39:21,779 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/.metadata/knime/history_createFileNameHistoryKey.txt' does not exist.
+2026-05-17 12:39:24,079 : INFO  : Node Repository Initializer :  : Pivot2NodeFactory :  :  : Modern dialog for Pivot node can be enabled via system property "org.knime.base.node.preproc.groupby.dialog". Note: This property will be removed in a future version.
+
+2026-05-17 12:39:26,719 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-05-17 12:39:26,720 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-05-17 12:39:26,728 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=oracle, name=Oracle, description=null)
+2026-05-17 12:39:26,889 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-05-17 12:39:26,903 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-05-17 12:39:26,904 : INFO  : Node Repository Initializer :  : DBDriverRegistry :  :  : Could not find any driver for DBType: DBType(id=vertica, name=Vertica, description=Vertica Analytics Platform)
+2026-05-17 12:39:29,526 : INFO  : Node Repository Initializer :  : StringHistory :  :  : History file '/Users/tomstehling/AAMD-26-Project/.metadata/knime/history_jfc-date-formats.txt' does not exist.
+2026-05-17 12:39:52,441 : WARN  : ModalContext :  : Node : Local File System Connector : 4:5 : Connection no longer available. Please re-execute the node.
+2026-05-17 12:39:52,673 : WARN  : ModalContext :  : Node : One to Many : 4:6 : Duplicate possible values found. Original column name will be appended
+2026-05-17 12:39:52,796 : WARN  : ModalContext :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 12:52:37,275 : WARN  : comm-pool-thread-2 :  : Node : k-Means (deprecated) : 4:602 : Errors loading flow variables into node : Value (=0.0) must be within the range [1...2147483647].
+2026-05-17 12:52:37,292 : WARN  : comm-pool-thread-2 :  : Node : k-Means (deprecated) : 4:617 : Errors loading flow variables into node : Value (=0.0) must be within the range [1...2147483647].
+2026-05-17 12:52:37,325 : WARN  : comm-pool-thread-2 :  : Node : CSV Reader : 4:3 : No connection available. Execute the connector node first.
+2026-05-17 12:52:39,981 : INFO  : comm-pool-thread-7 :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.core.ui.workflowcoach.data.PrefsTripleProvider>
+2026-05-17 12:52:39,982 : INFO  : comm-pool-thread-7 :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.data.CommunityTripleProvider>
+2026-05-17 12:52:41,504 : INFO  : comm-pool-thread-7 :  : NodeRecommendationManager :  :  : Loading node recommendations from <org.knime.workbench.workflowcoach.local.data.WorkspaceTripleProvider>
+2026-05-17 12:52:41,504 : INFO  : comm-pool-thread-7 :  : NodeRecommendationManager :  :  : Successfully (re-)loaded all node recommendations available
+2026-05-17 13:04:48,063 : ERROR : KNIME-Worker-3-CSV Reader 4:3 :  : Node : CSV Reader : 4:3 : Execute failed: No file system connection available. Execute connector node.
+java.lang.IllegalStateException: No file system connection available. Execute connector node.
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.lambda$0(AbstractFileChooserPathAccessor.java:160)
+	at java.base/java.util.Optional.orElseThrow(Unknown Source)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getConnection(AbstractFileChooserPathAccessor.java:159)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.initializeFileSystem(AbstractFileChooserPathAccessor.java:166)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getOutputPath(AbstractFileChooserPathAccessor.java:183)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getRootPath(AbstractFileChooserPathAccessor.java:316)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:225)
+	at org.knime.filehandling.core.node.table.reader.paths.Path$1.getItems(Path.java:103)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.getPaths(CommonTableReaderNodeModel.java:211)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.execute(CommonTableReaderNodeModel.java:174)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1331)
+	at org.knime.core.node.Node.execute(Node.java:1038)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:201)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:120)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+2026-05-17 13:04:48,066 : INFO  : KNIME-Worker-4-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:04:48,066 : INFO  : KNIME-Worker-5-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:04:48,127 : WARN  : KNIME-Worker-3-CSV Reader 4:3 :  : Node : CSV Reader : 4:3 : No connection available. Execute the connector node first.
+2026-05-17 13:04:55,399 : ERROR : KNIME-Worker-4-CSV Reader 4:3 :  : Node : CSV Reader : 4:3 : Execute failed: No file system connection available. Execute connector node.
+java.lang.IllegalStateException: No file system connection available. Execute connector node.
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.lambda$0(AbstractFileChooserPathAccessor.java:160)
+	at java.base/java.util.Optional.orElseThrow(Unknown Source)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getConnection(AbstractFileChooserPathAccessor.java:159)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.initializeFileSystem(AbstractFileChooserPathAccessor.java:166)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getOutputPath(AbstractFileChooserPathAccessor.java:183)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getRootPath(AbstractFileChooserPathAccessor.java:316)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:225)
+	at org.knime.filehandling.core.node.table.reader.paths.Path$1.getItems(Path.java:103)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.getPaths(CommonTableReaderNodeModel.java:211)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.execute(CommonTableReaderNodeModel.java:174)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1331)
+	at org.knime.core.node.Node.execute(Node.java:1038)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:201)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:120)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+2026-05-17 13:04:55,414 : WARN  : KNIME-Worker-4-CSV Reader 4:3 :  : Node : CSV Reader : 4:3 : No connection available. Execute the connector node first.
+2026-05-17 13:05:50,344 : ERROR : KNIME-Worker-5-CSV Reader 4:3 :  : Node : CSV Reader : 4:3 : Execute failed: No file system connection available. Execute connector node.
+java.lang.IllegalStateException: No file system connection available. Execute connector node.
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.lambda$0(AbstractFileChooserPathAccessor.java:160)
+	at java.base/java.util.Optional.orElseThrow(Unknown Source)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getConnection(AbstractFileChooserPathAccessor.java:159)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.initializeFileSystem(AbstractFileChooserPathAccessor.java:166)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getOutputPath(AbstractFileChooserPathAccessor.java:183)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getRootPath(AbstractFileChooserPathAccessor.java:316)
+	at org.knime.filehandling.core.defaultnodesettings.filechooser.AbstractFileChooserPathAccessor.getFSPaths(AbstractFileChooserPathAccessor.java:225)
+	at org.knime.filehandling.core.node.table.reader.paths.Path$1.getItems(Path.java:103)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.getPaths(CommonTableReaderNodeModel.java:211)
+	at org.knime.filehandling.core.node.table.reader.CommonTableReaderNodeModel.execute(CommonTableReaderNodeModel.java:174)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:605)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1331)
+	at org.knime.core.node.Node.execute(Node.java:1038)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:618)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:98)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:201)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:120)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:369)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:223)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:143)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:277)
+2026-05-17 13:05:50,364 : WARN  : KNIME-Worker-5-CSV Reader 4:3 :  : Node : CSV Reader : 4:3 : No connection available. Execute the connector node first.
+2026-05-17 13:07:52,789 : WARN  : comm-pool-thread-8 :  : Node : CSV Reader : 4:3 : No connection available. Execute the connector node first.
+2026-05-17 13:07:57,074 : INFO  : KNIME-Worker-3-Local File System Connector 4:5 :  : LocalNodeExecutionJob : Local File System Connector : 4:5 : Local File System Connector 4:5 End execute (0 secs)
+2026-05-17 13:08:00,555 : INFO  : KNIME-Worker-5-CSV Reader 4:3 :  : LocalNodeExecutionJob : CSV Reader : 4:3 : CSV Reader 4:3 End execute (0 secs)
+2026-05-17 13:08:37,188 : INFO  : KNIME-Worker-4-CSV Reader 4:3 :  : LocalNodeExecutionJob : CSV Reader : 4:3 : CSV Reader 4:3 End execute (0 secs)
+2026-05-17 13:08:38,553 : INFO  : KNIME-Worker-5-Column Filter 4:620 :  : LocalNodeExecutionJob : Column Filter : 4:620 : Column Filter 4:620 End execute (0 secs)
+2026-05-17 13:08:41,140 : WARN  : comm-pool-thread-8 :  : Node : One to Many : 4:6 : Duplicate possible values found. Original column name will be appended
+2026-05-17 13:08:44,474 : WARN  : comm-pool-thread-8 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:08:44,497 : WARN  : comm-pool-thread-8 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:08:44,500 : WARN  : comm-pool-thread-8 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:08:52,166 : WARN  : KNIME-Worker-3-One to Many 4:6 :  : Node : One to Many : 4:6 : Duplicate possible values found. Original column name will be appended
+2026-05-17 13:08:52,329 : INFO  : KNIME-Worker-3-One to Many 4:6 :  : LocalNodeExecutionJob : One to Many : 4:6 : One to Many 4:6 End execute (0 secs)
+2026-05-17 13:09:33,529 : INFO  : KNIME-Worker-4-Normalizer 4:7 :  : LocalNodeExecutionJob : Normalizer : 4:7 : Normalizer 4:7 End execute (0 secs)
+2026-05-17 13:09:33,556 : WARN  : KNIME-Worker-4-Normalizer 4:7 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:09:33,562 : WARN  : KNIME-Worker-4-Normalizer 4:7 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:09:33,564 : WARN  : KNIME-Worker-4-Normalizer 4:7 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:10:00,962 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:00,962 : INFO  : KNIME-Worker-5-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:10:00,970 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:00,971 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:01,327 : INFO  : KNIME-Worker-3-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:10:01,680 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:01,697 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:01,698 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:01,700 : INFO  : KNIME-Worker-3-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:03,199 : INFO  : KNIME-Worker-4-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (1 sec)
+2026-05-17 13:10:03,214 : WARN  : KNIME-Worker-4-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:03,218 : INFO  : KNIME-Worker-3-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:03,220 : WARN  : KNIME-Worker-3-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:03,276 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:03,278 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:03,280 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:03,281 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:03,324 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:03,337 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:03,345 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:03,346 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:03,437 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:03,446 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:03,447 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:03,582 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:03,590 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:03,591 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:03,593 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:04,235 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:04,247 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:04,249 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:04,250 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:04,276 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:04,278 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:04,287 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:04,287 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:04,293 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:04,298 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:04,313 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:04,316 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:04,478 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:04,487 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:04,489 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:04,544 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:04,548 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:04,549 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:04,550 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:05,002 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:05,003 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,005 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:05,006 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,040 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:05,041 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,049 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,049 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:05,054 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:05,063 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:05,081 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,083 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,177 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:05,188 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,189 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,228 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:05,232 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,232 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,233 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:05,679 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:05,684 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,687 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:05,687 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,717 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:05,719 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,720 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,720 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:05,728 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:05,733 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:05,745 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,746 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,860 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:05,865 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,865 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,944 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:05,947 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:05,948 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:05,949 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:06,436 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:06,440 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:06,443 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:06,444 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:06,466 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:06,467 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:06,469 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:06,470 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:06,471 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:06,478 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:06,487 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:06,490 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:06,598 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:06,604 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:06,605 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:06,665 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:06,671 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:06,672 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:06,675 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:07,308 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:07,311 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:07,312 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:07,313 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:07,342 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:07,343 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:07,346 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:07,346 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:07,348 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:07,354 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:07,364 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:07,365 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:07,488 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:07,507 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:07,507 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:07,566 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:07,573 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:07,573 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:07,576 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:08,515 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:08,518 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:08,520 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:08,520 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:08,543 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:08,546 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:08,547 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:08,547 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:08,552 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:08,559 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:08,570 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:08,570 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:08,693 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:08,712 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:08,713 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:08,780 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:08,786 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:08,787 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:08,789 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:09,333 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:09,337 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:09,338 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:09,345 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:09,381 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:09,382 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:09,384 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:09,385 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:09,387 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:09,396 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:09,409 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:09,409 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:09,545 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:09,561 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:09,564 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:09,615 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:09,625 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:09,625 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:09,627 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:10,127 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:10,129 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:10,130 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:10,130 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:10,149 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:10,150 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:10,271 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:10,271 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:10,273 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:10,280 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:10,288 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:10,288 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:10,369 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:10,374 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:10,374 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:10,410 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:10,416 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:10,416 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:10,417 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:11,227 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:11,232 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:11,234 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:11,237 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:11,255 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:11,257 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:11,258 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:11,259 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:11,264 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:11,272 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:11,282 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:11,282 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:11,450 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:11,469 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:11,480 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:11,523 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:11,528 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:11,529 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:11,531 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:12,350 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:12,352 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:12,354 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:12,355 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:12,369 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:12,370 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:12,371 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:12,371 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:12,373 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:12,379 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:12,386 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:12,386 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:12,784 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:12,792 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:12,793 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:12,825 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:12,828 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:12,829 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:12,830 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:13,321 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:13,323 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:13,324 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:13,324 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:13,336 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:13,337 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:13,339 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:13,339 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:13,340 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:13,343 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:13,348 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:13,349 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:13,540 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:13,545 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:13,545 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:13,580 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:13,585 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:13,586 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:13,587 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:14,012 : INFO  : KNIME-Worker-3-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:14,014 : WARN  : KNIME-Worker-3-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,017 : INFO  : KNIME-Worker-4-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:14,018 : WARN  : KNIME-Worker-4-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,030 : INFO  : KNIME-Worker-6-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:14,031 : WARN  : KNIME-Worker-6-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,033 : WARN  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,033 : INFO  : KNIME-Worker-3-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:14,039 : INFO  : KNIME-Worker-4-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:14,045 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:14,050 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,050 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,140 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:14,142 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,142 : WARN  : KNIME-Worker-3-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,178 : INFO  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:14,181 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,181 : WARN  : KNIME-Worker-4-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,182 : INFO  : KNIME-Worker-6-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:14,809 : INFO  : KNIME-Worker-4-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:14,812 : WARN  : KNIME-Worker-4-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,814 : INFO  : KNIME-Worker-6-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:14,814 : WARN  : KNIME-Worker-6-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,829 : INFO  : KNIME-Worker-3-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:14,830 : WARN  : KNIME-Worker-3-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,846 : WARN  : KNIME-Worker-4-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,847 : INFO  : KNIME-Worker-4-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:14,856 : INFO  : KNIME-Worker-6-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:14,863 : INFO  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:611 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:611 : Table Row To Variable Loop Start (deprecated) 4:611 End execute (0 secs)
+2026-05-17 13:10:14,879 : WARN  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:14,879 : WARN  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:611 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:14,905 : ERROR : main :  : KnimeBrowserView :  :  : Error: Unable to convert color undefined (source: https://org.knime.ui.java/assets/index-qa2z6KdO.js; line: 15)
+2026-05-17 13:10:15,056 : INFO  : KNIME-Worker-4-k-Means (deprecated) 4:602 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:602 : k-Means (deprecated) 4:602 End execute (0 secs)
+2026-05-17 13:10:15,058 : WARN  : KNIME-Worker-4-k-Means (deprecated) 4:602 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:15,059 : WARN  : KNIME-Worker-4-k-Means (deprecated) 4:602 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:15,087 : INFO  : KNIME-Worker-6-Joiner (deprecated) 4:603 :  : LocalNodeExecutionJob : Joiner (deprecated) : 4:603 : Joiner (deprecated) 4:603 End execute (0 secs)
+2026-05-17 13:10:15,094 : WARN  : KNIME-Worker-6-Joiner (deprecated) 4:603 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:15,094 : WARN  : KNIME-Worker-6-Joiner (deprecated) 4:603 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:15,095 : INFO  : KNIME-Worker-3-Column Filter 4:608:153 :  : LocalNodeExecutionJob : Column Filter : 4:608:153 : Column Filter 4:608:153 End execute (0 secs)
+2026-05-17 13:10:15,923 : INFO  : KNIME-Worker-4-Java Snippet 4:608:599 :  : LocalNodeExecutionJob : Java Snippet : 4:608:599 : Java Snippet 4:608:599 End execute (0 secs)
+2026-05-17 13:10:15,924 : WARN  : KNIME-Worker-4-Java Snippet 4:608:599 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:15,925 : INFO  : KNIME-Worker-6-Column Filter 4:608:600 :  : LocalNodeExecutionJob : Column Filter : 4:608:600 : Column Filter 4:608:600 End execute (0 secs)
+2026-05-17 13:10:15,926 : WARN  : KNIME-Worker-6-Column Filter 4:608:600 :  : Node : GroupBy : 4:608:145 : No grouping column included. Aggregate complete table.
+2026-05-17 13:10:15,961 : INFO  : KNIME-Worker-3-GroupBy 4:608:145 :  : LocalNodeExecutionJob : GroupBy : 4:608:145 : GroupBy 4:608:145 End execute (0 secs)
+2026-05-17 13:10:15,962 : WARN  : KNIME-Worker-3-GroupBy 4:608:145 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:15,963 : WARN  : KNIME-Worker-4-Column Rename (deprecated) 4:608:143 :  : Node : Column Rename (deprecated) : 4:608:143 : The following columns are configured but no longer exist: "Sum(Sum(sq dist))"
+2026-05-17 13:10:15,963 : INFO  : KNIME-Worker-4-Column Rename (deprecated) 4:608:143 :  : LocalNodeExecutionJob : Column Rename (deprecated) : 4:608:143 : Column Rename (deprecated) 4:608:143 End execute (0 secs)
+2026-05-17 13:10:15,966 : INFO  : KNIME-Worker-6-Loop End (deprecated) 4:605 :  : LocalNodeExecutionJob : Loop End (deprecated) : 4:605 : Loop End (deprecated) 4:605 End execute (0 secs)
+2026-05-17 13:10:16,009 : INFO  : KNIME-Worker-3-RowID 4:610 :  : LocalNodeExecutionJob : RowID : 4:610 : RowID 4:610 End execute (0 secs)
+2026-05-17 13:10:16,025 : INFO  : KNIME-Worker-4-Column Appender 4:612 :  : LocalNodeExecutionJob : Column Appender : 4:612 : Column Appender 4:612 End execute (0 secs)
+2026-05-17 13:10:16,057 : INFO  : KNIME-Worker-3-Line Plot 4:619 :  : LocalNodeExecutionJob : Line Plot : 4:619 : Line Plot 4:619 End execute (0 secs)
+2026-05-17 13:10:16,124 : INFO  : KNIME-Worker-6-Line Plot (JavaScript) (legacy) 4:613 :  : LocalNodeExecutionJob : Line Plot (JavaScript) (legacy) : 4:613 : Line Plot (JavaScript) (legacy) 4:613 End execute (0 secs)
+2026-05-17 13:10:18,358 : INFO  : KNIME-Worker-5-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (17 secs)
+2026-05-17 13:10:18,459 : INFO  : KNIME-Worker-4-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:10:18,481 : INFO  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:10:18,491 : WARN  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:10:18,535 : INFO  : KNIME-Worker-6-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:10:18,655 : INFO  : KNIME-Worker-5-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:10:29,313 : INFO  : KNIME-Worker-4-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (10 secs)
+2026-05-17 13:10:29,321 : INFO  : KNIME-Worker-3-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:10:29,332 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:10:29,343 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:10:29,414 : INFO  : KNIME-Worker-5-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:10:29,533 : INFO  : KNIME-Worker-4-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:10:36,285 : INFO  : KNIME-Worker-3-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:10:36,293 : INFO  : KNIME-Worker-6-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:10:36,298 : INFO  : KNIME-Worker-5-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:10:36,304 : WARN  : KNIME-Worker-5-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:10:36,344 : INFO  : KNIME-Worker-4-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:10:36,415 : INFO  : KNIME-Worker-3-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:10:42,830 : INFO  : KNIME-Worker-6-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:10:42,836 : INFO  : KNIME-Worker-5-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:10:42,843 : INFO  : KNIME-Worker-4-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:10:42,846 : WARN  : KNIME-Worker-4-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:10:42,912 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:10:42,993 : INFO  : KNIME-Worker-6-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:10:49,016 : INFO  : KNIME-Worker-5-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:10:49,026 : INFO  : KNIME-Worker-4-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:10:49,030 : INFO  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:10:49,036 : WARN  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:10:49,106 : INFO  : KNIME-Worker-6-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:10:49,170 : INFO  : KNIME-Worker-5-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:10:55,356 : INFO  : KNIME-Worker-4-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:10:55,361 : INFO  : KNIME-Worker-3-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:10:55,368 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:10:55,376 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:10:55,449 : INFO  : KNIME-Worker-5-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:10:55,511 : INFO  : KNIME-Worker-4-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:01,701 : INFO  : KNIME-Worker-3-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:11:01,709 : INFO  : KNIME-Worker-6-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:01,712 : INFO  : KNIME-Worker-5-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:01,715 : WARN  : KNIME-Worker-5-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:01,783 : INFO  : KNIME-Worker-4-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:01,843 : INFO  : KNIME-Worker-3-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:07,869 : INFO  : KNIME-Worker-6-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:11:07,877 : INFO  : KNIME-Worker-5-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:07,880 : INFO  : KNIME-Worker-4-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:07,885 : WARN  : KNIME-Worker-4-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:07,962 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:08,030 : INFO  : KNIME-Worker-6-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:14,230 : INFO  : KNIME-Worker-5-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:11:14,243 : INFO  : KNIME-Worker-4-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:14,248 : INFO  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:14,263 : WARN  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:14,377 : INFO  : KNIME-Worker-6-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:14,478 : INFO  : KNIME-Worker-5-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:23,099 : INFO  : KNIME-Worker-4-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (8 secs)
+2026-05-17 13:11:23,134 : INFO  : KNIME-Worker-3-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:23,143 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:23,149 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:23,242 : INFO  : KNIME-Worker-5-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:23,309 : INFO  : KNIME-Worker-4-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:30,791 : INFO  : KNIME-Worker-3-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (7 secs)
+2026-05-17 13:11:30,795 : INFO  : KNIME-Worker-6-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:30,800 : INFO  : KNIME-Worker-5-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:30,812 : WARN  : KNIME-Worker-5-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:30,924 : INFO  : KNIME-Worker-4-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:30,990 : INFO  : KNIME-Worker-3-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:37,483 : INFO  : KNIME-Worker-6-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:11:37,490 : INFO  : KNIME-Worker-5-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:37,493 : INFO  : KNIME-Worker-4-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:37,498 : WARN  : KNIME-Worker-4-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:37,610 : INFO  : KNIME-Worker-3-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:37,672 : INFO  : KNIME-Worker-6-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:45,664 : INFO  : KNIME-Worker-5-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (7 secs)
+2026-05-17 13:11:45,667 : INFO  : KNIME-Worker-4-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:45,673 : INFO  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:45,677 : WARN  : KNIME-Worker-3-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:45,729 : INFO  : KNIME-Worker-6-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:45,775 : INFO  : KNIME-Worker-5-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:50,801 : INFO  : KNIME-Worker-4-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (5 secs)
+2026-05-17 13:11:50,807 : INFO  : KNIME-Worker-3-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:50,810 : INFO  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : LocalNodeExecutionJob : Table Row To Variable Loop Start (deprecated) : 4:618 : Table Row To Variable Loop Start (deprecated) 4:618 End execute (0 secs)
+2026-05-17 13:11:50,814 : WARN  : KNIME-Worker-6-Table Row To Variable Loop Start (deprecated) 4:618 :  : Node : Silhouette Coefficient : 4:14 : The selected clustering column 'Cluster' does not have domain information available. Execute preceding nodes or use a Domain Calculator to calculate its domain.
+2026-05-17 13:11:50,914 : INFO  : KNIME-Worker-5-k-Means (deprecated) 4:617 :  : LocalNodeExecutionJob : k-Means (deprecated) : 4:617 : k-Means (deprecated) 4:617 End execute (0 secs)
+2026-05-17 13:11:50,997 : INFO  : KNIME-Worker-4-Cluster Assigner 4:9 :  : LocalNodeExecutionJob : Cluster Assigner : 4:9 : Cluster Assigner 4:9 End execute (0 secs)
+2026-05-17 13:11:57,063 : INFO  : KNIME-Worker-3-Silhouette Coefficient 4:14 :  : LocalNodeExecutionJob : Silhouette Coefficient : 4:14 : Silhouette Coefficient 4:14 End execute (6 secs)
+2026-05-17 13:11:57,066 : INFO  : KNIME-Worker-6-Loop End 4:12 :  : LocalNodeExecutionJob : Loop End : 4:12 : Loop End 4:12 End execute (0 secs)
+2026-05-17 13:11:57,116 : INFO  : KNIME-Worker-5-GroupBy 4:15 :  : LocalNodeExecutionJob : GroupBy : 4:15 : GroupBy 4:15 End execute (0 secs)
+2026-05-17 13:11:57,163 : INFO  : KNIME-Worker-4-Joiner 4:616 :  : LocalNodeExecutionJob : Joiner : 4:616 : Joiner 4:616 End execute (0 secs)
+2026-05-17 13:11:57,166 : INFO  : KNIME-Worker-3-Line Plot 4:13 :  : LocalNodeExecutionJob : Line Plot : 4:13 : Line Plot 4:13 End execute (0 secs)
+2026-05-17 13:12:23,068 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:12:25,015 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:12:37,423 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:12:44,115 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:12:46,095 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:14:03,253 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:14:07,422 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:15:01,903 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:15:06,524 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:17:33,971 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:17:37,996 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.lineplot.LinePlotNodeFactory/LinePlot.html; line: 0)
+2026-05-17 13:21:04,988 : INFO  : KNIME-Worker-7-Scatter Plot Matrix 3:24 :  : LocalNodeExecutionJob : Scatter Plot Matrix : 3:24 : Scatter Plot Matrix 3:24 End execute (0 secs)
+2026-05-17 13:21:05,207 : INFO  : KNIME-Worker-9-Conditional Box Plot (legacy) 3:17 :  : LocalNodeExecutionJob : Conditional Box Plot (legacy) : 3:17 : Conditional Box Plot (legacy) 3:17 End execute (0 secs)
+2026-05-17 13:21:05,266 : INFO  : KNIME-Worker-8-Pie Chart 3:26 :  : LocalNodeExecutionJob : Pie Chart : 3:26 : Pie Chart 3:26 End execute (0 secs)
+2026-05-17 13:21:07,638 : WARN  : comm-pool-thread-18 :  : Node : CSV Reader : 3:3 : No connection available. Execute the connector node first.
+2026-05-17 13:21:07,639 : WARN  : comm-pool-thread-18 :  : Node : One to Many : 3:6 : Possible value domain for column "Gender" is empty, use the Domain Calculator node (with a sufficient possible value limit) to create it.
+2026-05-17 13:21:07,639 : WARN  : comm-pool-thread-18 :  : Node : GroupBy : 3:19 : No grouping column included. Aggregate complete table.
+2026-05-17 13:21:12,724 : INFO  : KNIME-Worker-7-Local File System Connector 3:5 :  : LocalNodeExecutionJob : Local File System Connector : 3:5 : Local File System Connector 3:5 End execute (0 secs)
+2026-05-17 13:21:33,221 : INFO  : KNIME-Worker-10-CSV Reader 3:3 :  : LocalNodeExecutionJob : CSV Reader : 3:3 : CSV Reader 3:3 End execute (0 secs)
+2026-05-17 13:21:33,225 : WARN  : KNIME-Worker-10-CSV Reader 3:3 :  : Node : One to Many : 3:6 : Duplicate possible values found. Original column name will be appended
+2026-05-17 13:21:33,226 : WARN  : KNIME-Worker-10-CSV Reader 3:3 :  : Node : GroupBy : 3:19 : No grouping column included. Aggregate complete table.
+2026-05-17 13:21:33,256 : WARN  : KNIME-Worker-10-CSV Reader 3:3 :  : Node : Conditional Box Plot (legacy) : 3:17 : Selected nominal column has no domain values.
+2026-05-17 13:21:33,263 : WARN  : KNIME-Worker-10-CSV Reader 3:3 :  : Node : Color Manager : 3:23 : Column "Cluster" has no nominal values set: execute predecessor or add Binner.
+2026-05-17 13:21:35,657 : WARN  : KNIME-Worker-7-One to Many 3:6 :  : Node : One to Many : 3:6 : Duplicate possible values found. Original column name will be appended
+2026-05-17 13:21:35,676 : INFO  : KNIME-Worker-7-One to Many 3:6 :  : LocalNodeExecutionJob : One to Many : 3:6 : One to Many 3:6 End execute (0 secs)
+2026-05-17 13:21:35,696 : INFO  : KNIME-Worker-8-GroupBy 3:19 :  : LocalNodeExecutionJob : GroupBy : 3:19 : GroupBy 3:19 End execute (0 secs)
+2026-05-17 13:21:36,053 : INFO  : KNIME-Worker-9-Normalizer 3:7 :  : LocalNodeExecutionJob : Normalizer : 3:7 : Normalizer 3:7 End execute (0 secs)
+2026-05-17 13:21:36,687 : INFO  : KNIME-Worker-10-k-Means 3:1 :  : LocalNodeExecutionJob : k-Means : 3:1 : k-Means 3:1 End execute (0 secs)
+2026-05-17 13:21:36,788 : INFO  : KNIME-Worker-7-Cluster Assigner 3:9 :  : LocalNodeExecutionJob : Cluster Assigner : 3:9 : Cluster Assigner 3:9 End execute (0 secs)
+2026-05-17 13:21:36,900 : INFO  : KNIME-Worker-8-Joiner 3:16 :  : LocalNodeExecutionJob : Joiner : 3:16 : Joiner 3:16 End execute (0 secs)
+2026-05-17 13:21:36,918 : INFO  : KNIME-Worker-9-Conditional Box Plot (legacy) 3:17 :  : LocalNodeExecutionJob : Conditional Box Plot (legacy) : 3:17 : Conditional Box Plot (legacy) 3:17 End execute (0 secs)
+2026-05-17 13:21:37,020 : INFO  : KNIME-Worker-10-Pie Chart 3:26 :  : LocalNodeExecutionJob : Pie Chart : 3:26 : Pie Chart 3:26 End execute (0 secs)
+2026-05-17 13:21:37,156 : INFO  : KNIME-Worker-7-GroupBy 3:15 :  : LocalNodeExecutionJob : GroupBy : 3:15 : GroupBy 3:15 End execute (0 secs)
+2026-05-17 13:21:37,167 : INFO  : KNIME-Worker-9-Color Manager 3:23 :  : LocalNodeExecutionJob : Color Manager : 3:23 : Color Manager 3:23 End execute (0 secs)
+2026-05-17 13:21:37,174 : INFO  : KNIME-Worker-8-Parallel Coordinates Plot 3:22 :  : LocalNodeExecutionJob : Parallel Coordinates Plot : 3:22 : Parallel Coordinates Plot 3:22 End execute (0 secs)
+2026-05-17 13:21:37,176 : INFO  : KNIME-Worker-10-Scatter Plot Matrix 3:24 :  : LocalNodeExecutionJob : Scatter Plot Matrix : 3:24 : Scatter Plot Matrix 3:24 End execute (0 secs)
+2026-05-17 13:23:07,565 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 13:23:18,693 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 13:23:23,272 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 13:23:45,133 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.scatterplotmatrix.ScatterPlotMatrixNodeFactory/ScatterPlotMatrix.html; line: 0)
+2026-05-17 13:23:50,514 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.scatterplotmatrix.ScatterPlotMatrixNodeFactory/ScatterPlotMatrix.html; line: 0)
+2026-05-17 13:24:21,259 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.piechart.PieChartNodeFactory/PieChart.html; line: 0)
+2026-05-17 13:24:22,922 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.piechart.PieChartNodeFactory/PieChart.html; line: 0)
+2026-05-17 13:30:40,899 : WARN  : comm-pool-thread-21 :  : Node : CSV Writer : 3:27 : Please specify a file
+2026-05-17 13:31:30,692 : INFO  : KNIME-Worker-11-CSV Writer 3:27 :  : LocalNodeExecutionJob : CSV Writer : 3:27 : CSV Writer 3:27 End execute (0 secs)
+2026-05-17 14:08:36,972 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.piechart.PieChartNodeFactory/PieChart.html; line: 0)
+2026-05-17 14:08:46,477 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.piechart.PieChartNodeFactory/PieChart.html; line: 0)
+2026-05-17 14:09:55,198 : INFO  : KNIME-Worker-12-Conditional Box Plot (legacy) 3:17 :  : LocalNodeExecutionJob : Conditional Box Plot (legacy) : 3:17 : Conditional Box Plot (legacy) 3:17 End execute (0 secs)
+2026-05-17 14:10:54,065 : INFO  : KNIME-Worker-13-Conditional Box Plot (legacy) 3:17 :  : LocalNodeExecutionJob : Conditional Box Plot (legacy) : 3:17 : Conditional Box Plot (legacy) 3:17 End execute (0 secs)
+2026-05-17 14:13:00,442 : INFO  : KNIME-Worker-14-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (1 sec)
+2026-05-17 14:13:00,698 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:13:07,441 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:13:09,177 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:14:47,906 : INFO  : KNIME-Worker-15-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:14:48,126 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:14:50,091 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:15:05,194 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:15:25,711 : INFO  : KNIME-Worker-16-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:15:25,868 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:15:33,278 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:16:41,342 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:16:46,548 : INFO  : KNIME-Worker-17-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:16:46,711 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:16:59,877 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:17:07,710 : INFO  : KNIME-Worker-18-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:17:07,873 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:17:44,158 : INFO  : KNIME-Worker-19-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:17:44,541 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:17:53,592 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:19:29,345 : INFO  : KNIME-Worker-20-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:19:29,566 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:20:07,884 : INFO  : KNIME-Worker-21-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:20:08,126 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:20:29,115 : INFO  : KNIME-Worker-22-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:20:29,301 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:21:13,737 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:21:52,051 : INFO  : KNIME-Worker-23-Box Plot 3:28 :  : LocalNodeExecutionJob : Box Plot : 3:28 : Box Plot 3:28 End execute (0 secs)
+2026-05-17 14:21:52,193 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:25:06,386 : WARN  : comm-pool-thread-29 :  : Node : GroupBy : 3:29 : No grouping column included. Aggregate complete table.
+2026-05-17 14:25:06,390 : WARN  : comm-pool-thread-29 :  : Node : GroupBy : 3:29 : No aggregation column defined
+2026-05-17 14:25:06,392 : WARN  : comm-pool-thread-29 :  : Node : GroupBy : 3:29 : Please select at least one group or aggregation column
+2026-05-17 14:25:16,765 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.piechart.PieChartNodeFactory/PieChart.html; line: 0)
+2026-05-17 14:26:03,367 : WARN  : main :  : Node : GroupBy : 3:29 : No aggregation column defined
+2026-05-17 14:26:05,652 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.boxplot.BoxPlotNodeFactory/BoxPlot.html; line: 0)
+2026-05-17 14:28:32,143 : INFO  : KNIME-Worker-24-GroupBy 3:29 :  : LocalNodeExecutionJob : GroupBy : 3:29 : GroupBy 3:29 End execute (0 secs)
+2026-05-17 14:30:04,479 : INFO  : KNIME-Worker-25-GroupBy 3:29 :  : LocalNodeExecutionJob : GroupBy : 3:29 : GroupBy 3:29 End execute (0 secs)
+2026-05-17 14:31:41,421 : INFO  : KNIME-Worker-26-GroupBy 3:29 :  : LocalNodeExecutionJob : GroupBy : 3:29 : GroupBy 3:29 End execute (0 secs)
+2026-05-17 14:32:36,441 : WARN  : main :  : Node : GroupBy : 3:29 : No aggregation column defined
+2026-05-17 14:32:37,512 : INFO  : KNIME-Worker-27-GroupBy 3:29 :  : LocalNodeExecutionJob : GroupBy : 3:29 : GroupBy 3:29 End execute (0 secs)
+2026-05-17 14:34:27,830 : WARN  : comm-pool-thread-32 :  : Node : One to Many : 3:30 : Duplicate possible values found. Original column name will be appended
+2026-05-17 14:34:45,219 : INFO  : KNIME-Worker-28-One to Many 3:30 :  : LocalNodeExecutionJob : One to Many : 3:30 : One to Many 3:30 End execute (0 secs)
+2026-05-17 14:34:51,375 : WARN  : comm-pool-thread-33 :  : Node : GroupBy : 3:29 : No aggregation column defined
+2026-05-17 14:35:57,371 : INFO  : KNIME-Worker-29-GroupBy 3:29 :  : LocalNodeExecutionJob : GroupBy : 3:29 : GroupBy 3:29 End execute (0 secs)
+2026-05-17 14:38:18,005 : WARN  : comm-pool-thread-33 :  : Node : GroupBy : 3:31 : No grouping column included. Aggregate complete table.
+2026-05-17 14:38:18,007 : WARN  : comm-pool-thread-33 :  : Node : GroupBy : 3:31 : No aggregation column defined
+2026-05-17 14:38:18,007 : WARN  : comm-pool-thread-33 :  : Node : GroupBy : 3:31 : Please select at least one group or aggregation column
+2026-05-17 14:40:35,432 : WARN  : comm-pool-thread-34 :  : Node : Column Aggregator : 3:31 : No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+2026-05-17 14:40:53,724 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 3:31 : failed to apply settings: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+org.knime.core.node.InvalidSettingsException: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:274)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:224)
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:313)
+	at org.knime.core.node.Node.validateSettings(Node.java:715)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:687)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1218)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1173)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2396)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1142)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:677)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:649)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$6.widgetSelected(WrappedNodeDialog.java:515)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:198)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:970)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:872)
+	at org.knime.ui.java.api.NodeAPI.openNodeDialog(NodeAPI.java:101)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.knime.ui.java.api.DesktopAPI.invokeMethod(DesktopAPI.java:242)
+	at org.knime.ui.java.api.DesktopAPI.invoke(DesktopAPI.java:208)
+	at org.knime.ui.java.api.DesktopAPI.lambda$2(DesktopAPI.java:199)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:212)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+2026-05-17 14:41:26,455 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 3:31 : failed to apply settings: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+org.knime.core.node.InvalidSettingsException: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:274)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:224)
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:313)
+	at org.knime.core.node.Node.validateSettings(Node.java:715)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:687)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1218)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1173)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2396)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1142)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:677)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:649)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$6.widgetSelected(WrappedNodeDialog.java:515)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:198)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:970)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:872)
+	at org.knime.ui.java.api.NodeAPI.openNodeDialog(NodeAPI.java:101)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.knime.ui.java.api.DesktopAPI.invokeMethod(DesktopAPI.java:242)
+	at org.knime.ui.java.api.DesktopAPI.invoke(DesktopAPI.java:208)
+	at org.knime.ui.java.api.DesktopAPI.lambda$2(DesktopAPI.java:199)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:212)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+2026-05-17 14:41:33,817 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 3:31 : failed to apply settings: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+org.knime.core.node.InvalidSettingsException: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:274)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:224)
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:313)
+	at org.knime.core.node.Node.validateSettings(Node.java:715)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:687)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1218)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1173)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2396)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1142)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:677)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:649)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doOK(WrappedNodeDialog.java:564)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$5.widgetSelected(WrappedNodeDialog.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:198)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:970)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:872)
+	at org.knime.ui.java.api.NodeAPI.openNodeDialog(NodeAPI.java:101)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.knime.ui.java.api.DesktopAPI.invokeMethod(DesktopAPI.java:242)
+	at org.knime.ui.java.api.DesktopAPI.invoke(DesktopAPI.java:208)
+	at org.knime.ui.java.api.DesktopAPI.lambda$2(DesktopAPI.java:199)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:212)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+2026-05-17 14:42:24,307 : WARN  : main :  : WrappedNodeDialog : Column Aggregator : 3:31 : failed to apply settings: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+org.knime.core.node.InvalidSettingsException: No aggregation method specified. At least one aggregation method is required to perform an aggregation.
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:274)
+	at org.knime.core.node.util.CheckUtils.checkSetting(CheckUtils.java:224)
+	at org.knime.base.node.preproc.columnaggregator.ColumnAggregatorNodeModel.validateSettings(ColumnAggregatorNodeModel.java:313)
+	at org.knime.core.node.Node.validateSettings(Node.java:715)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:687)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1218)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1173)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2396)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1142)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:677)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:649)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doOK(WrappedNodeDialog.java:564)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$5.widgetSelected(WrappedNodeDialog.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4660)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1657)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1680)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1665)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1394)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4427)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4003)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:198)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:970)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:872)
+	at org.knime.ui.java.api.NodeAPI.openNodeDialog(NodeAPI.java:101)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.knime.ui.java.api.DesktopAPI.invokeMethod(DesktopAPI.java:242)
+	at org.knime.ui.java.api.DesktopAPI.invoke(DesktopAPI.java:208)
+	at org.knime.ui.java.api.DesktopAPI.lambda$2(DesktopAPI.java:199)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4382)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4005)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:678)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:583)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:212)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:219)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:627)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:575)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1431)
+2026-05-17 14:42:44,449 : INFO  : KNIME-Worker-30-Column Aggregator 3:31 :  : LocalNodeExecutionJob : Column Aggregator : 3:31 : Column Aggregator 3:31 End execute (0 secs)
+2026-05-17 14:43:27,677 : WARN  : comm-pool-thread-34 :  : Node : Math Formula : 3:31 : No configuration available
+2026-05-17 14:43:47,699 : WARN  : main :  : WrappedNodeDialog : Math Formula : 3:31 : failed to apply settings: Unknown flow variable "$CURRENT_C"
+org.knime.core.node.InvalidSettingsException: Unknown flow variable "$CURRENT_C"
+	at org.knime.ext.jep.ExpressionParser.parseFlowVariable(ExpressionParser.java:284)
+	at org.knime.ext.jep.ExpressionParser.dollarFound(ExpressionParser.java:261)
+	at org.knime.ext.jep.ExpressionParser.parse(ExpressionParser.java:171)
+	at org.knime.ext.jep.ExpressionParser.<init>(ExpressionParser.java:146)
+	at org.knime.ext.jep.JEPNodeDialogPane.saveSettingsTo(JEPNodeDialogPane.java:354)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2026-05-17 14:46:24,630 : WARN  : main :  : WrappedNodeDialog : Math Formula : 3:31 : failed to apply settings: Unable to parse m_expression
+Unrecognized symbol "sum"
+Syntax Error (assignment not enabled)
+
+org.knime.core.node.InvalidSettingsException: Unable to parse m_expression
+Unrecognized symbol "sum"
+Syntax Error (assignment not enabled)
+
+	at org.knime.ext.jep.ExpressionParser.parse(ExpressionParser.java:179)
+	at org.knime.ext.jep.ExpressionParser.<init>(ExpressionParser.java:146)
+	at org.knime.ext.jep.JEPNodeDialogPane.saveSettingsTo(JEPNodeDialogPane.java:354)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2026-05-17 14:46:43,895 : INFO  : KNIME-Worker-31-Math Formula 3:31 :  : LocalNodeExecutionJob : Math Formula : 3:31 : Math Formula 3:31 End execute (0 secs)
+2026-05-17 14:47:29,955 : WARN  : comm-pool-thread-34 :  : Node : Math Formula : 3:32 : No configuration available
+2026-05-17 14:48:06,252 : INFO  : KNIME-Worker-32-Math Formula 3:32 :  : LocalNodeExecutionJob : Math Formula : 3:32 : Math Formula 3:32 End execute (0 secs)
+2026-05-17 14:51:16,188 : WARN  : comm-pool-thread-34 :  : Node : Math Formula (Multi Column) : 3:33 : No configuration available
+2026-05-17 14:52:22,637 : INFO  : KNIME-Worker-33-Math Formula (Multi Column) 3:33 :  : LocalNodeExecutionJob : Math Formula (Multi Column) : 3:33 : Math Formula (Multi Column) 3:33 End execute (0 secs)
+2026-05-17 14:53:06,755 : WARN  : main :  : WrappedNodeDialog : Math Formula (Multi Column) : 3:33 : failed to apply settings: No such column: cluster_total
+org.knime.core.node.InvalidSettingsException: No such column: cluster_total
+	at org.knime.ext.jep.ExpressionParser.handleColumn(ExpressionParser.java:348)
+	at org.knime.ext.jep.ExpressionParser.dollarFound(ExpressionParser.java:264)
+	at org.knime.ext.jep.ExpressionParser.parse(ExpressionParser.java:171)
+	at org.knime.ext.jep.ExpressionParser.<init>(ExpressionParser.java:146)
+	at org.knime.ext.jep.multicolumn.MultiColumnJEPNodeModel.createParsersForSelectedColumns(MultiColumnJEPNodeModel.java:296)
+	at org.knime.ext.jep.multicolumn.MultiColumnJEPNodeDialogPane.saveSettingsTo(MultiColumnJEPNodeDialogPane.java:323)
+	at org.knime.core.node.NodeDialogPane.internalSaveSettingsTo(NodeDialogPane.java:553)
+	at org.knime.core.node.NodeDialogPane$4.run(NodeDialogPane.java:792)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2026-05-17 14:53:34,448 : INFO  : KNIME-Worker-34-Math Formula (Multi Column) 3:33 :  : LocalNodeExecutionJob : Math Formula (Multi Column) : 3:33 : Math Formula (Multi Column) 3:33 End execute (0 secs)
+2026-05-17 14:54:17,655 : WARN  : comm-pool-thread-35 :  : Node : CSV Writer : 3:34 : Please specify a file
+2026-05-17 14:54:35,122 : INFO  : KNIME-Worker-35-CSV Writer 3:34 :  : LocalNodeExecutionJob : CSV Writer : 3:34 : CSV Writer 3:34 End execute (0 secs)
+2026-05-17 14:58:07,966 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.scatterplotmatrix.ScatterPlotMatrixNodeFactory/ScatterPlotMatrix.html; line: 0)
+2026-05-17 14:58:12,983 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.scatterplotmatrix.ScatterPlotMatrixNodeFactory/ScatterPlotMatrix.html; line: 0)
+2026-05-17 14:59:52,683 : INFO  : KNIME-Worker-37-Parallel Coordinates Plot 3:35 :  : LocalNodeExecutionJob : Parallel Coordinates Plot : 3:35 : Parallel Coordinates Plot 3:35 End execute (0 secs)
+2026-05-17 14:59:52,820 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:00:38,741 : WARN  : comm-pool-thread-39 :  : Node : Color Manager : 3:36 : Selected column "Cluster" with default nominal color mapping.
+2026-05-17 15:00:51,642 : WARN  : comm-pool-thread-39 :  : Node : Color Manager : 3:37 : Selected column "Cluster" with default nominal color mapping.
+2026-05-17 15:01:18,350 : INFO  : KNIME-Worker-38-Color Manager 3:37 :  : LocalNodeExecutionJob : Color Manager : 3:37 : Color Manager 3:37 End execute (0 secs)
+2026-05-17 15:01:18,434 : INFO  : KNIME-Worker-39-Parallel Coordinates Plot 3:38 :  : LocalNodeExecutionJob : Parallel Coordinates Plot : 3:38 : Parallel Coordinates Plot 3:38 End execute (0 secs)
+2026-05-17 15:01:23,058 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:01:23,563 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) RangeError: toFixed() digits argument must be between 0 and 100 (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/assets/index-D9Z9jK66.js; line: 8)
+2026-05-17 15:01:27,182 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:01:27,308 : ERROR : main :  : CEFNodeView :  :  : Uncaught (in promise) RangeError: toFixed() digits argument must be between 0 and 100 (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/assets/index-D9Z9jK66.js; line: 8)
+2026-05-17 15:02:18,339 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:02:22,154 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:02:28,962 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:02:37,786 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:02:43,855 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:03:35,450 : INFO  : KNIME-Worker-40-Bar Chart 3:39 :  : LocalNodeExecutionJob : Bar Chart : 3:39 : Bar Chart 3:39 End execute (0 secs)
+2026-05-17 15:03:35,715 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.barchart.BarChartNodeFactory/BarChart.html; line: 0)
+2026-05-17 15:03:37,571 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.barchart.BarChartNodeFactory/BarChart.html; line: 0)
+2026-05-17 15:03:53,996 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.barchart.BarChartNodeFactory/BarChart.html; line: 0)
+2026-05-17 15:04:09,977 : INFO  : KNIME-Worker-41-Bar Chart 3:39 :  : LocalNodeExecutionJob : Bar Chart : 3:39 : Bar Chart 3:39 End execute (0 secs)
+2026-05-17 15:04:10,221 : WARN  : main :  : KnimeBrowserView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.barchart.BarChartNodeFactory/BarChart.html; line: 0)
+2026-05-17 15:05:08,465 : INFO  : KNIME-Worker-42-GroupBy Bar Chart (JFreeChart) 3:40 :  : LocalNodeExecutionJob : GroupBy Bar Chart (JFreeChart) : 3:40 : GroupBy Bar Chart (JFreeChart) 3:40 End execute (0 secs)
+2026-05-17 15:08:10,940 : INFO  : KNIME-Worker-43-Stacked Area Chart 3:40 :  : LocalNodeExecutionJob : Stacked Area Chart : 3:40 : Stacked Area Chart 3:40 End execute (0 secs)
+2026-05-17 15:08:14,767 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.stackedareachart.StackedAreaChartNodeFactory/StackedAreaChart.html; line: 0)
+2026-05-17 15:11:24,400 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:14:17,566 : INFO  : KNIME-Worker-47-Column Renamer 3:40 :  : LocalNodeExecutionJob : Column Renamer : 3:40 : Column Renamer 3:40 End execute (0 secs)
+2026-05-17 15:14:25,358 : INFO  : KNIME-Worker-46-Color Manager 3:37 :  : LocalNodeExecutionJob : Color Manager : 3:37 : Color Manager 3:37 End execute (0 secs)
+2026-05-17 15:14:25,361 : INFO  : KNIME-Worker-45-Parallel Coordinates Plot 3:38 :  : LocalNodeExecutionJob : Parallel Coordinates Plot : 3:38 : Parallel Coordinates Plot 3:38 End execute (0 secs)
+2026-05-17 15:14:45,540 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:15:16,604 : INFO  : KNIME-Worker-47-Column Renamer 3:40 :  : LocalNodeExecutionJob : Column Renamer : 3:40 : Column Renamer 3:40 End execute (0 secs)
+2026-05-17 15:15:25,575 : INFO  : KNIME-Worker-46-Color Manager 3:37 :  : LocalNodeExecutionJob : Color Manager : 3:37 : Color Manager 3:37 End execute (0 secs)
+2026-05-17 15:15:25,581 : INFO  : KNIME-Worker-44-Parallel Coordinates Plot 3:38 :  : LocalNodeExecutionJob : Parallel Coordinates Plot : 3:38 : Parallel Coordinates Plot 3:38 End execute (0 secs)
+2026-05-17 15:15:30,394 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 15:17:50,858 : INFO  : KNIME-Worker-48-Heatmap 3:41 :  : LocalNodeExecutionJob : Heatmap : 3:41 : Heatmap 3:41 End execute (0 secs)
+2026-05-17 15:17:54,895 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.heatmap.HeatmapNodeFactory/Heatmap.html; line: 0)
+2026-05-17 15:55:31,062 : WARN  : main :  : CEFNodeView :  :  : An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. (source: https://org.knime.core.ui.view/uiext-view/org.knime.base.views.node.parallelcoordinatesplot.ParallelCoordinatesPlotNodeFactory/ParallelCoordinatesPlot.html; line: 0)
+2026-05-17 16:26:39,274 : INFO  : KNIME shutdown hooks - org.knime.core.util.FileUtil$$Lambda/0x000000010060d638 :  : FileUtil :  :  : Deleting 150 temporary files.
