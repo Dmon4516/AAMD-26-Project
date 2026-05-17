@@ -40,17 +40,17 @@
                 </config>
             </config>
         </config>
-        <entry key="maxRows" type="xint" value="2500"/>
+        <entry key="maxRows" type="xint" value="16"/>
         <entry key="title" type="xstring" value="Line Plot"/>
-        <entry key="axisExtentMethod" type="xstring" value="AUTO"/>
+        <entry key="axisExtentMethod" type="xstring" value="MANUAL"/>
         <config key="manualAxisLimits">
             <entry key="xAxisManualMin" type="xdouble" value="0.0"/>
-            <entry key="xAxisManualMax" type="xdouble" value="100.0"/>
+            <entry key="xAxisManualMax" type="xdouble" value="16.0"/>
             <entry key="yAxisManualMin" type="xdouble" value="0.0"/>
-            <entry key="yAxisManualMax" type="xdouble" value="100.0"/>
+            <entry key="yAxisManualMax" type="xdouble" value="0.25"/>
         </config>
-        <entry key="customXAxisLabelV2" type="xstring" isnull="true" value=""/>
-        <entry key="customXAxisLabelV2_is_present" type="xboolean" value="false"/>
+        <entry key="customXAxisLabelV2" type="xstring" value="k"/>
+        <entry key="customXAxisLabelV2_is_present" type="xboolean" value="true"/>
         <entry key="customYAxisLabelV2" type="xstring" value=""/>
         <entry key="customYAxisLabelV2_is_present" type="xboolean" value="true"/>
         <entry key="yAxisScale" type="xstring" value="VALUE"/>
@@ -66,7 +66,7 @@
     </config>
     <config key="view_variables"/>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.base.views.node.lineplot.LinePlotNodeFactory"/>
     <entry key="node-name" type="xstring" value="Line Plot"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Views"/>
@@ -83,11 +83,21 @@
         <config key="Output Image"/>
     </config>
     <entry key="name" type="xstring" value="Line Plot"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports"/>
+    <config key="internalObjects">
+        <entry key="location" type="xstring" value="internalTables"/>
+        <config key="content">
+            <config key="object_0">
+                <entry key="index" type="xint" value="0"/>
+                <entry key="type" type="xstring" value="table"/>
+                <entry key="table_dir_location" type="xstring" value="object_0"/>
+            </config>
+        </config>
+    </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="b023ed29-41fd-4ed5-96a2-32b8388374e2"/>
     </config>
 </config>

@@ -2,7 +2,7 @@
   "version" : "5.11.0.v202603030810",
   "projects" : [ {
     "name" : "clustering",
-    "active" : true,
+    "active" : false,
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",
@@ -10,7 +10,7 @@
     }
   }, {
     "name" : "join_clusters",
-    "active" : false,
+    "active" : true,
     "origin" : {
       "providerId" : "local",
       "spaceId" : "local",

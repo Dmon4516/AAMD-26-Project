@@ -9,7 +9,7 @@
         <entry key="hideInWizard" type="xboolean" value="false"/>
         <entry key="generateImage" type="xboolean" value="false"/>
         <entry key="showLegend" type="xboolean" value="true"/>
-        <entry key="autoRange" type="xboolean" value="true"/>
+        <entry key="autoRange" type="xboolean" value="false"/>
         <entry key="useDomainInformation" type="xboolean" value="false"/>
         <entry key="showGrid" type="xboolean" value="true"/>
         <entry key="showCrosshair" type="xboolean" value="false"/>
@@ -37,7 +37,7 @@
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
                 <entry key="array-size" type="xint" value="1"/>
-                <entry key="0" type="xstring" value="Wk"/>
+                <entry key="0" type="xstring" value="Sum(squared_errors)"/>
             </config>
             <config key="excluded_names">
                 <entry key="array-size" type="xint" value="2"/>
@@ -49,6 +49,7 @@
                 <entry key="pattern" type="xstring" value=""/>
                 <entry key="type" type="xstring" value="Wildcard"/>
                 <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
             </config>
             <config key="datatype">
                 <config key="typelist">
@@ -121,6 +122,8 @@
         </config>
         <entry key="reportOnMissingValues" type="xboolean" value="true"/>
         <entry key="enforceOrigin" type="xboolean" value="false"/>
+        <entry key="enableLineSizeChange" type="xboolean" value="false"/>
+        <entry key="line_size" type="xint" value="2"/>
     </config>
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Plotting Wk vs k"/>
@@ -147,7 +150,7 @@
         </config>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <entry key="factory" type="xstring" value="org.knime.js.base.node.viz.plotter.line.LinePlotNodeFactory"/>
     <entry key="node-name" type="xstring" value="Line Plot (JavaScript) (legacy)"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME JavaScript Base Views"/>
@@ -160,20 +163,28 @@
     <entry key="node-feature-version" type="xstring" value="5.11.0.v202602211511"/>
     <config key="factory_settings"/>
     <entry key="name" type="xstring" value="Line Plot (JavaScript) (legacy)"/>
-    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.inactive.InactiveBranchPortObject"/>
+            <entry key="port_object_summary" type="xstring" value="Inactive Port Object"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
             <entry key="index" type="xint" value="2"/>
-            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 15, Cols: 3"/>
+            <entry key="port_dir_location" type="xstring" value="port_2"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="a59d2127-9847-4178-884c-fdbc00ecd90d"/>
     </config>
 </config>
