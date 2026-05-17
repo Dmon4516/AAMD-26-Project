@@ -11,7 +11,7 @@
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="RELATIVE"/>
                 <entry key="file_system_specifier" type="xstring" value="knime.space"/>
-                <entry key="path" type="xstring" value="Project/AAMD-26-Project/T-SNE"/>
+                <entry key="path" type="xstring" value="Project/AAMD-26-Project/T-SNE.png"/>
             </config>
             <config key="file_system_chooser__Internals">
                 <entry key="has_fs_port" type="xboolean" value="false"/>
@@ -52,6 +52,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="ffd784e8-61d3-4681-b68a-243a290cd8fe"/>
+        <entry key="file_store_id" type="xstring" value="8bc2dcc5-e2db-407e-b29c-80080256be30"/>
     </config>
 </config>

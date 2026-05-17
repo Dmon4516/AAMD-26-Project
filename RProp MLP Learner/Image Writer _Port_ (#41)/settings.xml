@@ -11,7 +11,7 @@
                 <entry key="location_present" type="xboolean" value="true"/>
                 <entry key="file_system_type" type="xstring" value="RELATIVE"/>
                 <entry key="file_system_specifier" type="xstring" value="knime.space"/>
-                <entry key="path" type="xstring" value="Project/AAMD-26-Project/Covariance Matrix"/>
+                <entry key="path" type="xstring" value="Project/AAMD-26-Project/Covariance Matrix.png"/>
             </config>
             <config key="file_system_chooser__Internals">
                 <entry key="has_fs_port" type="xboolean" value="false"/>
@@ -52,6 +52,6 @@
     <config key="ports"/>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5ef8bf85-4ede-4c21-b8f6-2ae2fcefdbb7"/>
+        <entry key="file_store_id" type="xstring" value="ed3b924b-21d8-4bef-ac6f-5a2d198977e8"/>
     </config>
 </config>

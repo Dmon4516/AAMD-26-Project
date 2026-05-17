@@ -7,7 +7,7 @@
     </config>
     <config key="model">
         <entry key="generateImage" type="xboolean" value="true"/>
-        <entry key="imageFormat" type="xstring" value="SVG"/>
+        <entry key="imageFormat" type="xstring" value="PNG"/>
         <entry key="width" type="xint" value="800"/>
         <entry key="height" type="xint" value="600"/>
     </config>
@@ -73,7 +73,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.image.ImagePortObject"/>
-            <entry key="port_object_summary" type="xstring" value="SVG 800 x 591"/>
+            <entry key="port_object_summary" type="xstring" value="PNG Image 800 x 600 with 101 KB"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -91,6 +91,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="09895359-6dd5-46a1-b3b9-f409621497b9"/>
+        <entry key="file_store_id" type="xstring" value="b222f337-8371-46e5-b455-241d16696dc4"/>
     </config>
 </config>
